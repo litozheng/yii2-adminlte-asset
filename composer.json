@@ -29,10 +29,5 @@
         "psr-4": {
             "dmstr\\": ""
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
     }
 }
