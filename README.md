@@ -23,7 +23,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install AdminLTE v2.4 run:
 
 ```
-php composer.phar require lito/yii2-adminlte-asset "2.4"
+php composer.phar require lito/yii2-adminlte-asset "2.*"
 ```
 
 To install AdminLTE v2 run:
