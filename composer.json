@@ -22,7 +22,7 @@
         "yiisoft/yii2": "2.*",
         "yiisoft/yii2-bootstrap": "2.*",
         "cebe/yii2-gravatar": "1.*",
-        "almasaeed2010/adminlte": "~2.4",
+        "lito/adminlte":"*",
         "rmrevin/yii2-fontawesome": "~2.9"
     },
     "autoload": {
