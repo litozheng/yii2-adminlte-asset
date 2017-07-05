@@ -12,13 +12,17 @@
         {
             "name": "Evgeniy Tkachenko",
             "email": "et.coder@gmail.com"
+        },
+        {
+            "name": "Lito Zheng",
+            "email": "lito.zheng@qq.com"
         }
     ],
     "require": {
         "yiisoft/yii2": "2.*",
         "yiisoft/yii2-bootstrap": "2.*",
         "cebe/yii2-gravatar": "1.*",
-        "almasaeed2010/adminlte": "~2.0",
+        "almasaeed2010/adminlte": "~2.4",
         "rmrevin/yii2-fontawesome": "~2.9"
     },
     "autoload": {
